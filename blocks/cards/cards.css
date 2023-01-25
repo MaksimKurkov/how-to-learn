@@ -1,0 +1,10 @@
+/* Таблица Техника */
+.cards {
+  width: 920px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+}

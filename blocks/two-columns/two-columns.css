@@ -1,0 +1,6 @@
+/* Две части блока описания */
+.two-columns {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}

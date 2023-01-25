@@ -1,0 +1,9 @@
+/* Секция Хан */
+.khan {
+  position: relative;
+  display: flex;
+  padding: 105px 0 0 0;
+  align-items: center;
+  justify-content: center;
+  background-color: #f2f2f2;
+}

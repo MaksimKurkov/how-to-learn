@@ -1,0 +1,7 @@
+/* Ссылка на покупку в Хан */
+.khan__book-pic {
+  width: 620px;
+  max-height : 608px;
+  object-fit: cover;
+  object-position: top;
+}

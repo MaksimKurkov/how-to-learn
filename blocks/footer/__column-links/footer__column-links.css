@@ -1,0 +1,10 @@
+/* Подвал колонка ссылок ссылки*/
+.footer__column-links {
+  display: flex;
+  flex-direction: column;
+  align-content: stretch;
+  align-items: start;
+  margin-top: 0;
+  margin-bottom: 16px;
+  margin-left: 0;
+}

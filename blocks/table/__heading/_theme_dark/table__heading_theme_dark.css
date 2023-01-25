@@ -1,0 +1,4 @@
+/* Заголовок ячейки таблицы темная тема */
+.table__heading_theme_dark {
+  color: white;
+}

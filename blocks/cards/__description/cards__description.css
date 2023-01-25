@@ -1,0 +1,8 @@
+/* Описание ячейки таблицы Техника */
+.cards__description {
+  margin: 0 0 0 0;
+  text-align: center;
+  line-height: 23px;
+  font-size: 18px;
+  font-weight: normal;
+}

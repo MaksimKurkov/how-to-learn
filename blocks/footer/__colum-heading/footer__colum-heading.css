@@ -1,0 +1,10 @@
+/* Подвал заголовки колонок */
+.footer__colum-heading {
+  color: white;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-align: start;
+}

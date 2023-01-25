@@ -1,0 +1,6 @@
+/* Ссылка на покупку в Хан */
+.khan__book-container {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}

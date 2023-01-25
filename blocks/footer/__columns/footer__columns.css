@@ -1,0 +1,9 @@
+/* Подвал три колонки */
+.footer__columns {
+  width: 90%;
+  margin-top: 0;
+  margin-bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  align-content: stretch;
+}

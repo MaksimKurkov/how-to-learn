@@ -1,0 +1,8 @@
+/* Правый столбец описания */
+.two-columns__main-text {
+  max-width: 80%;
+  min-width: 784px;
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}

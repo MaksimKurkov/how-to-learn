@@ -1,0 +1,7 @@
+/* Подвал колонка */
+.footer__column {
+  display: flex;
+  flex-direction: column;
+  align-content: stretch;
+  align-items: start;
+}
