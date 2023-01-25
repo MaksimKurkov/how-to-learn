@@ -1,5 +1,5 @@
 /* Секция цифры */
-.digit {
+.digits {
   display: flex;
   position: relative;
   flex-direction: column;

@@ -4,6 +4,7 @@
   position: relative;
   flex-direction: column;
   align-items: center;
-  padding: 100px 0 306px 0;
+  padding: 100px 0 0 0;
   overflow: visible;
+  margin-bottom: -60px;
 }
